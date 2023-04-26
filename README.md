@@ -13,6 +13,6 @@ public static void main(String[] args){
 
 [![imageminstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heloisa.rib?igshid=ZDdkNTZiNTM=)
 
-[![HeloisaRib's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeloisaRib&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![HeloisaRib's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeloisaRib&show_icons=true&theme=radical)](https://github.com/HeloisaRib/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaRib&layout=compact&theme=radical)](https://github.com/HeloisaRib/github-readme-stats)
