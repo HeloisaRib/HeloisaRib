@@ -9,6 +9,7 @@ public static void main(String[] args){
     "E estagiando na Compass.UOL em Data & Analytics\n"
     "Estou aberta a novas amizades, experiências e se precisar de ajuda com algo, " +
     "pode me chamar no link abaixo:");
+}
 ```
 
 [![imageminstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heloisa.rib?igshid=ZDdkNTZiNTM=)
