@@ -3,10 +3,9 @@
 ```java
 public static void main(String[] args){
   System.out.print("Bem vindo ao meu perfil, fique à vontade!\n" +
-    "Me chamo Heloísa, mas pode me chamar de Helô, tenho 19 anos e moro no interior de Goiás.\n" +
+    "Me chamo Heloísa, mas pode me chamar de Helô, tenho 20 anos e moro no interior de Goiás.\n" +
     "Gosto muito de ler, jogar, passar um tempo com os amigos, cozinhar, viajar...\n" + 
-    "No momento estou cursando o 3º período em Sistemas de Informações no IF Goiano\n" +
-    "E estagiando na Compass.UOL em Data & Analytics\n"
+    "No momento estou cursando o 5º período em Sistemas de Informações no IF Goiano\n" +
     "Estou aberta a novas amizades, experiências e se precisar de ajuda com algo, " +
     "pode me chamar no link abaixo:");
 }
