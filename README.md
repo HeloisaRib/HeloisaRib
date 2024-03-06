@@ -7,12 +7,12 @@ public static void main(String[] args){
     "Gosto muito de ler, jogar, passar um tempo com os amigos, cozinhar, viajar...\n" + 
     "No momento estou cursando o 5º período em Sistemas de Informações no IF Goiano\n" +
     "Estou aberta a novas amizades, experiências e se precisar de ajuda com algo, " +
-    "pode me chamar no link abaixo:");
+    "pode me chamar em algum dos links abaixo:");
 }
 ```
-
-[![imageminstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heloisa.rib?igshid=ZDdkNTZiNTM=)
-
-[![HeloisaRib's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeloisaRib&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaRib&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://instagram.com/heloisa.rib?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/helo-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<div>;)</div>
